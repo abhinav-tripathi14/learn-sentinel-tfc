@@ -4,7 +4,7 @@
 # Note: it is possible to use the legacy S3 bucket attributes using version 4.x provider therefore refer to that syntax as "legacy"
 
 # Import Functions used below
-import "tfplan-functions" as plan
+#import "tfplan-functions" as plan
 import "tfconfig-functions" as config
 import "strings"
 
