@@ -5,6 +5,8 @@
 
 # Import Functions used below
 #import "tfplan-functions" as plan
+import "tfplan/v2" as tfplan
+
 import "tfconfig-functions" as config
 import "strings"
 
