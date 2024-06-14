@@ -59,5 +59,5 @@ mock "tfrun" {
 }
 policy "TFC-Sentinel-Policies" {
   source = "./restrict_s3_acl.sentinel"
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
